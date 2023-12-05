@@ -1,0 +1,1 @@
+2023-12-05 13:19:48,759 - ERROR: Error in tracking application usage: 'NoneType' object has no attribute 'title'
